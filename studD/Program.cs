@@ -6,6 +6,7 @@ namespace studD
     {
         static void Main(string[] args)
         {
+            
             string stringNum;
             string firstpartOne = "12";
             int firstPartTwo = 2;
@@ -29,6 +30,8 @@ namespace studD
                 }
             }
 
+            
+            
         }
     }
 }
